@@ -1,0 +1,182 @@
+ [   
+    {
+      "id": 1,
+      "title": "Movie 1",
+      "image": "https://via.placeholder.com/150/92c952",
+      "details": "Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris.",
+      "reviews": [
+        {
+          "id": 1,
+          "user": "User 1",
+          "comment": "Great movie!"
+        },
+        {
+          "id": 2,
+          "user": "User 2",
+          "comment": "Loved the action sequences."
+        }
+      ]
+    },
+    {
+      "id": 2,
+      "title": "Movie 2",
+      "image": "https://via.placeholder.com/150/771796",
+      "details": "Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris.",
+      "reviews": [
+        {
+          "id": 1,
+          "user": "User 1",
+          "comment": "Heartfelt performance by the actors."
+        },
+        {
+          "id": 2,
+          "user": "User 2",
+          "comment": "The story was captivating."
+        }
+      ]
+    },
+    {
+      "id": 3,
+      "title": "Movie 3",
+      "image": "https://via.placeholder.com/150/24f355",
+      "details": "Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris.",
+      "reviews": [
+        {
+          "id": 1,
+          "user": "User 1",
+          "comment": "Heartfelt performance by the actors."
+        },
+        {
+          "id": 2,
+          "user": "User 2",
+          "comment": "The story was captivating."
+        }
+      ]
+    },
+    {
+      "id": 4,
+      "title": "Movie 4",
+      "image": "https://via.placeholder.com/150/f66b97",
+      "details": "Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur.",
+      "reviews": [
+        {
+          "id": 1,
+          "user": "User 1",
+          "comment": "Heartfelt performance by the actors."
+        },
+        {
+          "id": 2,
+          "user": "User 2",
+          "comment": "The story was captivating."
+        }
+      ]
+    },
+    {
+      "id": 5,
+      "title": "Movie 5",
+      "image": "https://via.placeholder.com/150/1fe46f",
+      "details": "Excepteur sint occaecat cupidatat non proident, sunt in culpa qui officia deserunt mollit anim id est laborum.",
+      "reviews": [
+        {
+          "id": 1,
+          "user": "User 1",
+          "comment": "Heartfelt performance by the actors."
+        },
+        {
+          "id": 2,
+          "user": "User 2",
+          "comment": "The story was captivating."
+        }
+      ]
+    },
+    {
+      "id": 6,
+      "title": "Movie 6",
+      "image": "https://via.placeholder.com/150/56acb2",
+      "details": "Lorem ipsum dolor sit amet, consectetur adipiscing elit.",
+      "reviews": [
+        {
+          "id": 1,
+          "user": "User 1",
+          "comment": "Heartfelt performance by the actors."
+        },
+        {
+          "id": 2,
+          "user": "User 2",
+          "comment": "The story was captivating."
+        }
+      ]
+    },
+    {
+      "id": 7,
+      "title": "Movie 7",
+      "image": "https://via.placeholder.com/150/501fe1",
+      "details": "Sed do eiusmod tempor incididunt ut labore et dolore magna aliqua.",
+      "reviews": [
+        {
+          "id": 1,
+          "user": "User 1",
+          "comment": "Heartfelt performance by the actors."
+        },
+        {
+          "id": 2,
+          "user": "User 2",
+          "comment": "The story was captivating."
+        }
+      ]
+    },
+    {
+      "id": 8,
+      "title": "Movie 8",
+      "image": "https://via.placeholder.com/150/1e71a2",
+      "details": "Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris.",
+      "reviews": [
+        {
+          "id": 1,
+          "user": "User 1",
+          "comment": "Heartfelt performance by the actors."
+        },
+        {
+          "id": 2,
+          "user": "User 2",
+          "comment": "The story was captivating."
+        }
+      ]
+    },
+    {
+      "id": 9,
+      "title": "Movie 9",
+      "image": "https://via.placeholder.com/150/b4412f",
+      "details": "Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur.",
+      "reviews": [
+        {
+          "id": 1,
+          "user": "User 1",
+          "comment": "Heartfelt performance by the actors."
+        },
+        {
+          "id": 2,
+          "user": "User 2",
+          "comment": "The story was captivating."
+        }
+      ]
+    },
+    {
+      "id": 10,
+      "title": "Movie 10",
+      "image": "https://via.placeholder.com/150/b4412f",
+      "details": "Excepteur sint occaecat cupidatat non proident, sunt in culpa qui officia deserunt mollit anim id est laborum.",
+      "reviews": [
+        {
+          "id": 1,
+          "user": "User 1",
+          "comment": "Heartfelt performance by the actors."
+        },
+        {
+          "id": 2,
+          "user": "User 2",
+          "comment": "The story was captivating."
+        }
+      ]
+    }
+  ]
